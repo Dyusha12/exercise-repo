@@ -1,1 +1,2 @@
-mkdir data
+<<<<<<< HEAD
+mkdir backup
